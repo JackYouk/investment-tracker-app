@@ -1,0 +1,2 @@
+#Investment Tracker App
+Once completed, will be an easy way to keep track of your different investments- whether it be stock, crypto, property, etc. All will be saved in your device's local storage to ensure the security of the info you input.
